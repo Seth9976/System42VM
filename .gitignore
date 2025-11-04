@@ -1,4 +1,0 @@
-build
-*.ain
-.dir-locals.el
-/subprojects/cglm
