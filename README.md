@@ -156,3 +156,4 @@ Alternatively, run xsystem4 from within the game directory,
 
 If you've installed xsystem4 into the game directory as described above, simply
 double-click `xsystem4.exe` to run the game.
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Seth9976/System42VM)
